@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Dion</h1>
+<h1 align="center">Hi 👋, I'm Abdulwahed Alhallak</h1>
 <h3 align="center">Full Stack Developer | AI Systems Architect | SaaS Builder</h3>
 
 <p align="center">
-Building modern SaaS systems, AI tools, and enterprise platforms.
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+Node.js+Engineer;AI+Systems+Builder;SaaS+Platform+Architect"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer  
 - 🧠 AI Systems Architect  
+- 💻 Full Stack Developer  
 - 🏗 Building SaaS Platforms  
-- 🌍 Founder of Dion Creative Studio  
+- 🌍 Founder @ Dion Creative  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,ts,js,postgres,mysql,docker,linux,git,github,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,ts,js,postgres,mysql,docker,linux,git,github,tailwind,figma"/>
 
 </p>
 
@@ -30,29 +30,29 @@ Building modern SaaS systems, AI tools, and enterprise platforms.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulwahed-alhallak&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulwahed-alhallak&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Top Languages
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Abdulwahed-alhallak&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abdulwahed-alhallak&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -62,7 +62,7 @@ Building modern SaaS systems, AI tools, and enterprise platforms.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://github.com/Abdulwahed-alhallak">GitHub</a> •
 <a href="https://dion.sy">Website</a>
 
 </p>
